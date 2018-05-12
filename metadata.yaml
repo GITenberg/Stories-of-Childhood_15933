@@ -1,0 +1,34 @@
+_repo: Stories-of-Childhood_15933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: ''
+gutenberg_issued: '2005-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Short stories'
+- !lcsh 'Children -- Fiction'
+tableOfContents: A dog of Flanders / by Louisa De la Ramé -- The king of the Golden
+  River / by John Ruskin -- The lady of Shalott / by Elizabeth Stuart Phelps -- Marjorie
+  Fleming / by John Brown -- Little Jakey / by Mrs. S.H. DeKroyft -- The lost child
+  / by Henry Kingsley -- Goody gracious! and the forget-me-not / by John Neal -- A
+  faded leaf of history / by Rebecca Harding Davis -- A child's dream of a star /
+  by Charles Dickens.
+title: Stories of Childhood
+url: http://www.gutenberg.org/ebooks/15933
